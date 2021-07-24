@@ -1,6 +1,8 @@
 # Portfolio
 live preview or live visit 
-https://vjop.tech
+
+
+https://vasudevjaiswal.com
 ![image](https://user-images.githubusercontent.com/85981735/125992225-9f22b206-b9b6-4cb7-b5ff-f55f1f5bb47d.png)
 
 
