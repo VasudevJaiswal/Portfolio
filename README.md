@@ -13,6 +13,5 @@
 * Portfolio This is my portfolio built using HTML, CSS and JavaScript. It has been deployed with the help of GitHub pages. This portfolio is live due to the awesome tutorial on freeCodeCamp.org by Kevin Powell.  live preview *
 
 ***
-![Screenshot (99)](https://user-images.githubusercontent.com/85981735/128580415-0123faa5-bdea-449d-bdcc-4ae9a02e68f8.png)
 
 ***
